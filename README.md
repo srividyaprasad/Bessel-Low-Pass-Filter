@@ -1,2 +1,2 @@
 # Network-Analysis-and-Synthesis
-Assignments and Semester Project completed in NAS course of Sem 3
+Assignments and Semester Project in QUCS software completed for the NAS course of Sem 3
